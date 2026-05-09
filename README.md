@@ -2,9 +2,9 @@
 
 Bienvenido a este repositorio de prueba.
 
-## Descripcion
+## Descripción
 
-Este proyecto es un ejemplo basico para aprender a usar Git y GitHub.
+Este proyecto es un ejemplo básico para aprender a usar Git y GitHub.
 
 ## Como usar
 
